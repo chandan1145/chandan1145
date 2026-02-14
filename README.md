@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Chandan 👋
 
-<!--
-**chandan1145/chandan1145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python & AI Developer  
+🤖 Interested in Agentic AI, Automation & Trading Bots  
+📊 Building real world projects using Python  
 
-Here are some ideas to get you started:
+🚀 Skills
+Python
+Machine Learning (Learning)
+Automation Bots
+Git & GitHub
+Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Current Projects
+ AI Trading Assistant (MetaTrader 5)
+ Personal Decision Copilot (Upcoming)
+ Automation Tools using Python
+
+📈 Learning Goals 2026
+Build real world AI products
+Contribute to open source
+Become AI Engineer
+
+📫 Contact
+Email: chandanreddy411@gmail.com
